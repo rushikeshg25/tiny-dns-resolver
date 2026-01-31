@@ -158,3 +158,4 @@ tiny-dns-resolver/
 ```
 
 ## 8. Examples
+<img width="571" height="496" alt="image" src="https://github.com/user-attachments/assets/a625b345-995e-4182-9c78-9e74339e6668" />
