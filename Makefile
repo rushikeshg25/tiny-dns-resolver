@@ -7,7 +7,7 @@ help:
 	@echo "  make clean - Remove temporary files"
 
 run:
-	uv run python -m tiny_dns_resolver.main
+	uv run python -m tiny_dns_resolver.main $(ARGS)
 
 test:
 	uv run pytest tests/
